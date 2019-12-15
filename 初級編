@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>MOMOtown</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-logo">MOMOtown</div>
+      <div class="header-list">
+        <ul>
+          <li>はじめに</li>
+          <li>概要</li>
+          <li>お問い合わせ</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="main">
+      <div class="copy-container">
+        <h1>MOMOtoen<span>!</span></h1>
+        <h2>何をするか決まってない！！</h2>
+      </div>
+      
+      <div class="contents">
+        <h3 class="section-title">コンテンツ</h3>
+        <div class="contents-item">
+          <img src="https://1.bp.blogspot.com/-Vc56UVq-NTg/Xbo7g3iRoeI/AAAAAAABV3k/hQxFmXd85oUR9lxaRjau7yAqnyShMRXFACNcBGAsYHQ/s1600/season_character1_spring_sakura.png">
+          <p>春</p>
+        </div>
+        <div class="contents-item">
+          <img src="https://1.bp.blogspot.com/-dMMKQIoHElo/Xbo7hemGCaI/AAAAAAABV3o/64B5w8KEZWApwpLpXWLvf62DWtbxtFbGACNcBGAsYHQ/s1600/season_character2_summer_himawari.png">
+          <p>夏</p>
+        </div>
+        <div class="contents-item">
+          <img src="https://1.bp.blogspot.com/-mm0DTjn9kVE/XYW4LBp2z1I/AAAAAAABVFY/IdpV83awzEcShHwtByKJC162OfhUVe55gCNcBGAsYHQ/s1600/season_character3_autumn_momiji.png">
+          <p>秋</p>
+        </div>
+        <div class="contents-item">
+          <img src="https://1.bp.blogspot.com/-GivOSHLk5XU/Xbo7hW9EGVI/AAAAAAABV3s/DHDw5RNEWI4TvjZbu7UJ6Hdeo8I55uMawCNcBGAsYHQ/s1600/season_character4_winter_tsubaki.png">
+          <p>冬</p>
+        </div>
+      </div>
+      
+      <div class="contact-form">
+        <h3 class="section-title">お問い合わせ</h3>
+        <p>メールアドレス（必須）</p>
+        
+        <input>
+        
+        <p>お問い合わせ内容（必須）</p>
+        <textarea></textarea>
+        
+        <p>※必須項目は必ずご入力ください</p>
+        <input class="contact-submit" type="submit" value="送信">
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="footer-logo">Progate</div>
+      <div class="footer-list">
+        <ul>
+          <li>会社概要</li>
+          <li>採用</li>
+          <li>お問い合わせ</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
